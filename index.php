@@ -68,7 +68,7 @@
     $host = "dicodingserverproject.database.windows.net";
     $user = "azureadmin";
     $pass = "27Sep20007";
-    $db = "azureduadb";
+    $db = "registration";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
