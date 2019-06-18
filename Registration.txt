@@ -2,7 +2,7 @@
    Selasa, 18 Juni 2019
    User: azureadmin
    Server: dicodingserverproject.database.windows.net
-   Database: azuredb
+   Database: azureduadb
    Application: 
 */
 
