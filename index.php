@@ -65,10 +65,10 @@
         </form>   
    
  <?php
-    $host = "registration1.database.windows.net";
-    $user = "dicoding";
-    $pass = "@Qwerty123";
-    $db = "Registration";
+    $host = "dicodingserverproject.database.windows.net";
+    $user = "azureadmin";
+    $pass = "27Sep20007";
+    $db = "azureduadb";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
