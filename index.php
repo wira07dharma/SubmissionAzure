@@ -27,7 +27,7 @@
 				<a class="nav-link" href="https://submissiondua.azurewebsites.net/">Home</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="https://submissiondua.azurewebsites.net/analyze.html">Analisis Kendaraan<span class="sr-only">(current)</span></a>
+				<a class="nav-link" href="https://submissiondua.azurewebsites.net/analyze.php">Analisis Kendaraan<span class="sr-only">(current)</span></a>
 			</li>
 		</div>
 		</nav>
